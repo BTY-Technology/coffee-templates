@@ -1,0 +1,46 @@
+{
+  "id": "coffee-001",
+  "name": "Template 001",
+  "category": "coffee",
+  "description": "Premium artisan coffee roastery template with dark luxury design. Features hero section, product gallery, testimonials carousel, roasting process showcase, value proposition, and subscription pricing plans. Perfect for specialty coffee businesses, craft roasteries, and coffee subscription services.",
+  "version": "1.0.0",
+  "featured": false,
+  "preview": {
+    "thumbnail": "/previews/coffee-001/thumbnail.jpg",
+    "screenshots": [],
+    "demoUrl": "https://coffee-001.website.btytechnology.com"
+  },
+  "features": [
+    "Fully responsive mobile-first design",
+    "SEO optimized with Next.js metadata API",
+    "Dark luxury theme with amber gold accents",
+    "Smooth scroll animations with Intersection Observer",
+    "Interactive video modal showcase",
+    "Functional subscription form modals",
+    "4-column product gallery with hover effects",
+    "Horizontal scrolling testimonials carousel",
+    "Interactive 4-step roasting process navigator",
+    "3-tier pricing plans with custom features",
+    "Sticky navigation with smooth scroll",
+    "Newsletter signup integration",
+    "WCAG 2.1 AA accessibility compliant",
+    "Custom Google Fonts (Playfair Display & Inter)",
+    "Optimized images with Next.js Image component"
+  ],
+  "techStack": [
+    "Next.js 14",
+    "TypeScript",
+    "Tailwind CSS",
+    "React 18",
+    "Lucide React Icons",
+    "Google Fonts"
+  ],
+  "colors": {
+    "primary": "#1a1614",
+    "secondary": "#2a1f1d",
+    "accent": "#d4af37"
+  },
+  "pages": [
+    "Home"
+  ]
+}
