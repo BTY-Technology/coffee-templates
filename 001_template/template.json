@@ -4,7 +4,7 @@
   "category": "coffee",
   "description": "Premium artisan coffee roastery template with dark luxury design. Features hero section, product gallery, testimonials carousel, roasting process showcase, value proposition, and subscription pricing plans. Perfect for specialty coffee businesses, craft roasteries, and coffee subscription services.",
   "version": "1.0.0",
-  "featured": false,
+  "featured": true,
   "preview": {
     "thumbnail": "/previews/coffee-001/thumbnail.jpg",
     "screenshots": [],
@@ -25,7 +25,6 @@
     "Newsletter signup integration",
     "WCAG 2.1 AA accessibility compliant",
     "Custom Google Fonts (Playfair Display & Inter)",
-    "Optimized images with Next.js Image component"
   ],
   "techStack": [
     "Next.js 14",
